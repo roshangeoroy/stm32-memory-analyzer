@@ -35,5 +35,5 @@ Using the `objdump` output , the sections are populated with sizes.
 
 ## Future of this script
 
-The script is entirely vibe-coded, so there could be a lot of places for optimization and improvement. I intend to port this to `Go` (for fun!).
+The script is entirely [vibe-coded](https://en.wikipedia.org/wiki/Vibe_coding) , so there could be a lot of places for optimization and improvement. I intend to port this to `Go` (for fun!).
 
